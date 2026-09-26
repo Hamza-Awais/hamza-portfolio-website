@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hamza-awais-portfolio.netlify.app/sitemap.xml
